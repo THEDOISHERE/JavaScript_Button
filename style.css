@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img {
+  max-width: 400px;
+}
+.instruction {
+  padding: 10px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.containter {
+  outline: solid;
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 35%;
+  /* margin-left: 32%;
+  margin-top: 30px; */
+}
